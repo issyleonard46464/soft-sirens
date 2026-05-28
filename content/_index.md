@@ -2,6 +2,4 @@
 title: "Soft Sirens"
 ---
 
-# Soft Sirens
-
-Immersive systems exploring sound, space, and touch.
+Welcome to Soft Sirens — immersive systems exploring sound, space, and touch.
